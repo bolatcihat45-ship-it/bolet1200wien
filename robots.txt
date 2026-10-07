@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bolatcihat45-ship-it.github.io/bolet1200wien/sitemap.xml
