@@ -1,0 +1,23 @@
+{
+  "id": "./",
+  "name": "BOLET Döner Wien",
+  "short_name": "BOLET Döner",
+  "description": "Authentischer Döner. BOLET menüsü, çalışma saatleri ve Wien adresi.",
+  "lang": "tr-TR",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f2e9",
+  "theme_color": "#f8f2e9",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "./assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Menü", "short_name": "Menü", "url": "./index.html#menu" },
+    { "name": "Konum ve saatler", "short_name": "Konum", "url": "./index.html#konum" }
+  ]
+}
